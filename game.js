@@ -47,3 +47,5 @@ d.innerHTML="number of trials : "+ counter;
 c.addEventListener('click', guessGame);
 
 //Ali ossaily first
+
+//Ali ossaily second
