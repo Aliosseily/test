@@ -49,5 +49,3 @@ c.addEventListener('click', guessGame);
 //Ali ossaily first
 
 //Ali ossaily second
-
-//Ali ossaily third
