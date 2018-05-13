@@ -46,9 +46,12 @@ d.innerHTML="number of trials : "+ counter;
 }
 c.addEventListener('click', guessGame);
 
-<<<<<<< HEAD
+
 //Ali ossaily first
 
 //Ali ossaily second
-=======
->>>>>>> parent of 8083032... second
+
+
+//dsyv45y35m,35y364qn6yw53tw3pronx7e4ym0348ut
+
+//ali oss ali oss
