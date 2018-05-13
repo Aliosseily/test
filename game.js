@@ -21,7 +21,7 @@ if(guess < randomNumber){
     }
     else {
 counter++;
-   result="small";
+   result="small";rthrthrt5uhw45y
     }
 }
 
@@ -46,3 +46,4 @@ d.innerHTML="number of trials : "+ counter;
 }
 c.addEventListener('click', guessGame);
 
+//Ali ossaily first
